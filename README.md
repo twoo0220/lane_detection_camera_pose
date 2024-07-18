@@ -1,5 +1,9 @@
 # lane_detection_camera_pose
 
+## Pre-Install
+- pip install opencv-python
+- pip install matplotlib
+
 ## 참고자료
 - [Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving?tab=readme-ov-file)
 - [Extrinsic Camera Calibration](https://thomasfermi.github.io/Algorithms-for-Automated-Driving/CameraCalibration/VanishingPointCameraCalibration.html)
