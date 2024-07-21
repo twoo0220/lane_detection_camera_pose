@@ -94,3 +94,4 @@ class CameraGeometry(object):
         uv_vec /= uv_vec[2]
         cut_v = uv_vec[1]
         return cut_v
+    
